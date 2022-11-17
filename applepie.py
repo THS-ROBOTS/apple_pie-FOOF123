@@ -24,7 +24,7 @@ class Solution:
         #RETURN: integer (int)  
         # to do: write code to calculate how much fat I gained
         #get rid of the 'None" and return whatever you want to return
-        return
+        return pies * 40
     
 #PLEASE DON'T TOUCH ANYTHING DOWN HERE :)))
 def main():
