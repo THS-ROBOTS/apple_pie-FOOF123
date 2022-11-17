@@ -16,17 +16,15 @@ Return: TOTAL amount of fat gained (int)
 Test Cases:
 Input: 5    Output: 200
 Input: 1    Output: 40
-    
 """
 
 class Solution:
     def apple_pie(self, pies):
         #TYPE pies: integer (int)
-        #RETURN: integer (int)
-        
-        #TODO: write code to calculate how much fat I gained
+        #RETURN: integer (int)  
+        # to do: write code to calculate how much fat I gained
         #get rid of the 'None" and return whatever you want to return
-        return None
+        return
     
 #PLEASE DON'T TOUCH ANYTHING DOWN HERE :)))
 def main():
@@ -38,6 +36,3 @@ def main():
 
 if __name__ == "__main__":
      main()
-     
-     
-
